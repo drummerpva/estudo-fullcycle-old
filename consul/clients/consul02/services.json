@@ -1,0 +1,9 @@
+{
+  "encrypt": "RF8bfEV5XQhhActUSeRAIgqVMvXr3NVVr6Y8P3AkafA=",
+  "service": {
+    "id": "nginx2",
+    "name": "nginx",
+    "tags": ["web"],
+    "port": 80
+  }
+}

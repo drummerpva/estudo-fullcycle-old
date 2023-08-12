@@ -1,0 +1,10 @@
+[manager]
+3.88.91.177
+
+[worker]
+54.175.28.159
+3.93.193.98
+
+[all:vars]
+ansible_ssh_private_key_file=/Users/douglaspoma/Documents/ansible/curso-fc.cer
+ansible_user=ubuntu

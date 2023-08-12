@@ -1,0 +1,3 @@
+URL = https://224194717462.signin.aws.amazon.com/console
+Access-key ID = AKIATIMYL44LBIGWP3ZX
+Secret access key = 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
